@@ -14,7 +14,7 @@
 下面是一个常见情形，不是具体某个人的故事。 一对夫妇来 BC 一年多，孩子刚上小学，两个人都在打工。邻居说「你们应该有牛奶金」，他们去问了两个朋友，一个说要申请，一个说不用，两个人都不确定。其实有几件事彼此连着：要先有税务居民身份，要报过税，要为孩子申请 CCB，申请之后 BC 家庭福利才会跟着自动出现。 同一栋楼里，隔壁独居的长辈每月租金占去退休金的一大块，却从没听说过 SAFER。她不是不符合条件，而是没人告诉她，也没人替她查一遍。 福利从来不会自己找上门，多数时候，你得先知道它叫什么，才查得到。
 
 ## 先试试自查工具
-回答下面几个问题，页面会列出「可能值得查」的项目和官方链接。答案只在你的浏览器里运算，不上传、不保存。 html <div id="vv-bc" style="border:1px solid var(--line);background:var(--card);border-radius:12px;padding:16px 18px" <form id="vv-bc-form" onsubmit="return false" style="display:grid;gap:14px" <fieldset style="border:0;padding:0;margin:0"<legend<b1. 你现在住在哪里？</b</legend <label<input type="radio" name="prov" value="bc" checked 在 BC</label <label style="margin-left:14px"<input type="radio" name="prov" value="other" 在加拿大其他省</label</fieldset <fieldset style="border:0;padding:0;margin:0"<legend<b2. 你们家有没有 18 岁以下、跟你们住在一起的孩子？</b</legend <label<input type="radio" name="kids" value="y" 有</label <label style="margin-left:14px"<input type="radio" name="kids" value="n" checked 没有</label</fieldset <fieldset style="border:0;padding:0;margin:0"<legend<b3. 家里有没有 60 岁以上的长辈（包括你自己）？</b</legend <label<input type="radio" name="age" value="65" 有 65 岁以上</labe
+回答下面几个问题，页面会列出「可能值得查」的项目和官方链接。答案只在你的浏览器里运算，不上传、不保存。
 
 ## 我们做什么，不做什么
 我们做 - 把官方规则排成按情形走的清单，每一项附官方链接。 - 帮你看出这个家庭的福利之间怎么连着：先报税、再申请 CCB、BC 家庭福利跟着来。 - 解释常见的卡点：新移民 18 个月规则、居住年数对 OAS 的影响、租房补助为什么要先报税。 我们不做 - 不下「你有资格」的结论，也不算具体能领多少。 - 不代办申请，不要你的 SIN、银行信息和收入证明。 - 不收费、不抽成。所有政府福利的申请本来就是免费的。
