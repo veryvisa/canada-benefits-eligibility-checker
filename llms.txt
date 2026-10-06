@@ -1,0 +1,78 @@
+# 加拿大福利自查（微出国 VeryVisa）
+
+> 回答几个问题，列出你可能值得查的加拿大与 BC 福利项目和官方链接。不收集个人信息，不下资格结论，一切以官方页面为准。
+
+网址：https://veryvisa.github.io/canada-benefits-eligibility-checker/
+提供方：微出国（VeryVisa），为海外华人生活提供专业、负责、AI 加持下的优质、快捷服务。
+咨询：页面底部表单，或邮件 veryvisa.com@gmail.com（首次沟通免费）
+信息截至：2026-10-05
+
+## 这几种人最容易漏掉福利
+刚落地、还没报过税的家庭 以为没收入就不用报税，结果孩子的福利和 BC 家庭福利都没有启动。 有孩子的工签、学签家庭 不清楚 18 个月的规则从哪天算，也不知道该用哪张表申请。 在 BC 租房的长辈 租金占了退休金的大半，却不知道有一项专门给 60 岁以上长辈的租房补助。 刚满 65 岁的长辈 OAS 和 GIS 不是同一件事，居住年数不够 40 年时更不知道怎么办。 工作收入不高的人 只听说过报税退税，没听过专门给低收入工作者的退税抵免，也不知道牙科有政府计划。
+
+## 一个常见的情形：钱就在那里，只是没人通知
+下面是一个常见情形，不是具体某个人的故事。 一对夫妇来 BC 一年多，孩子刚上小学，两个人都在打工。邻居说「你们应该有牛奶金」，他们去问了两个朋友，一个说要申请，一个说不用，两个人都不确定。其实有几件事彼此连着：要先有税务居民身份，要报过税，要为孩子申请 CCB，申请之后 BC 家庭福利才会跟着自动出现。 同一栋楼里，隔壁独居的长辈每月租金占去退休金的一大块，却从没听说过 SAFER。她不是不符合条件，而是没人告诉她，也没人替她查一遍。 福利从来不会自己找上门，多数时候，你得先知道它叫什么，才查得到。
+
+## 先试试自查工具
+回答下面几个问题，页面会列出「可能值得查」的项目和官方链接。答案只在你的浏览器里运算，不上传、不保存。 html <div id="vv-bc" style="border:1px solid var(--line);background:var(--card);border-radius:12px;padding:16px 18px" <form id="vv-bc-form" onsubmit="return false" style="display:grid;gap:14px" <fieldset style="border:0;padding:0;margin:0"<legend<b1. 你现在住在哪里？</b</legend <label<input type="radio" name="prov" value="bc" checked 在 BC</label <label style="margin-left:14px"<input type="radio" name="prov" value="other" 在加拿大其他省</label</fieldset <fieldset style="border:0;padding:0;margin:0"<legend<b2. 你们家有没有 18 岁以下、跟你们住在一起的孩子？</b</legend <label<input type="radio" name="kids" value="y" 有</label <label style="margin-left:14px"<input type="radio" name="kids" value="n" checked 没有</label</fieldset <fieldset style="border:0;padding:0;margin:0"<legend<b3. 家里有没有 60 岁以上的长辈（包括你自己）？</b</legend <label<input type="radio" name="age" value="65" 有 65 岁以上</labe
+
+## 我们做什么，不做什么
+我们做 - 把官方规则排成按情形走的清单，每一项附官方链接。 - 帮你看出这个家庭的福利之间怎么连着：先报税、再申请 CCB、BC 家庭福利跟着来。 - 解释常见的卡点：新移民 18 个月规则、居住年数对 OAS 的影响、租房补助为什么要先报税。 我们不做 - 不下「你有资格」的结论，也不算具体能领多少。 - 不代办申请，不要你的 SIN、银行信息和收入证明。 - 不收费、不抽成。所有政府福利的申请本来就是免费的。
+
+## 怎么开始
+1. 先用上面的小工具走一遍，看看哪几项值得查。 2. 点进官方页面，对照最新条件和金额，自己申请。 3. 卡住了，在下面留邮箱，写下家里大致情况，我们回你一页排好顺序的清单。 4. 报税这一步卡住的，可以让我们介绍报税的专业人士，由你自己决定。
+
+## 收费
+工具和基础回复完全免费。我们不收取任何申请代办费，也不向任何机构收取介绍费。
+
+## 为什么先报税
+CRA 说明，Canada Groceries and Essentials Benefit 不需要申请，只要每年报税、哪怕没有收入。BC 家庭福利要报 T1 税表；SAFER 与 RAP 都要求每年报税；长辈的 GIS 要年年报税或向 Service Canada 报告收入。 新移民也不是等到第一次报税才可以领：CRA 说明，成为税务居民之后，就可以在符合条件时申请福利，不必等到来年春天。
+
+## 常见问题
+
+问：这个自查工具会不会收集我的信息？
+答：不会。它是页面里的一小段程序，答案只在你的浏览器里运算，不上传、不保存，刷新页面就清空。
+
+问：工具说「值得查」，是不是就一定有资格？
+答：不是。它只是按几个最基本的条件，提示你可以去官方页看一看。真正的资格、金额和申请方式，一律以官方页面为准。
+
+问：不报税，会拿不到福利吗？
+答：多数会。CRA 说明，Canada Groceries and Essentials Benefit（原 GST/HST 信用）不需要单独申请，每年报税就行，没有收入也要报；BC 家庭福利同样要报 T1 税表。长辈的 GIS 也要年年报税或向 Service Canada 报告收入。
+
+问：GST/HST 信用现在叫什么？
+答：按 CRA 页面，它已被 Canada Groceries and Essentials Benefit（CGEB）取代，是按季度发放的免税补助，资格条件沿用原来的规则。见 CRA：CGEB 谁有资格。
+
+问：临时居民（工签、学签）能领 CCB 吗？
+答：按 CRA 的资格说明，临时居民需要在加拿大住满 18 个月、并持有第 19 个月有效的许可，才符合身份要求，其他条件也要满足。详见 CRA：CCB 申请前须知。
+
+问：BC 家庭福利要另外申请吗？
+答：不用。BC 省说明，只要孩子已登记领取 CCB，就自动登记 BC 家庭福利，无需另外行动，它和 CCB 合并发放。新搬到 BC 的家庭要先确保已登记 CCB。见 BC 省：家庭福利。
+
+问：OAS 一定要住满 40 年才有吗？
+答：不是。按 Service Canada 的说明，在加拿大居住满 10 年（18 岁以后）就可以领部分 OAS；居住年数越多，通常领得越多。具体怎么算，以官方页为准，见 OAS 资格。
+
+问：GIS 要自己申请吗？
+答：Service Canada 说明，如果它有你的信息，通常会自动给符合条件的人登记；如果你在 64 岁生日后一个月内没收到通知，可能需要自己申请。见 GIS 页面。
+
+问：BC 的租房补助有哪几种？
+答：常见的两种：给 60 岁以上长辈的 SAFER，和给有孩子的低收入家庭的 Rental Assistance Program（RAP）。两者都要求在 BC 住满 12 个月、每年报税、租金占收入比例较高，且不能同时领省级收入或残障援助。见 SAFER 与 RAP。
+
+问：加拿大牙科保险计划（CDCP）谁能申请？
+答：按官方页，需要同时满足：没有私人牙科保险、你和配偶都已报税、家庭调整后净收入低于 90,000 加元、是加拿大税务居民。申请不收费。见 CDCP 资格。
+
+问：你们帮我申请吗？
+答：不代办。我们帮你排清单、告诉你该去哪个官方页、需要准备哪些材料。申请由你自己在官方页面完成，所有补助申请本来都是免费的，别给任何人交钱。
+
+## 参考资料
+- CRA：Canada Groceries and Essentials Benefit（谁有资格）: https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-groceries-essentials-benefit/who-eligible.html
+- CRA：Canada Child Benefit 申请前须知: https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html
+- BC 省：B.C. family benefit: https://www2.gov.bc.ca/gov/content/family-social-supports/affordability/family-benefit
+- Service Canada：OAS 资格: https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/eligibility.html
+- Service Canada：Guaranteed Income Supplement: https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html
+- BC Housing：SAFER: https://www.bchousing.org/housing-assistance/rental-assistance-programs/SAFER
+- BC Housing：Rental Assistance Program: https://www.bchousing.org/housing-assistance/rental-assistance-programs/RAP
+- CRA：Canada Workers Benefit: https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-workers-benefit.html
+- Canada.ca：Canadian Dental Care Plan 资格: https://www.canada.ca/en/services/benefits/dental/dental-care-plan/qualify.html
+- CRA：新移民与 CRA: https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html
+
+本站是一般信息和提示工具，不构成税务、法律或福利资格意见，也不代表任何政府部门。工具只提示「可能值得查」，资格与金额以 CRA、Service Canada、BC 省和 BC Housing 官方页面为准。我们不收集 SIN 或银行信息，也不代办申请。
